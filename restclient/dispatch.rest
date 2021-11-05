@@ -1,0 +1,8 @@
+POST http://localhost:1006
+Content-Type: application/json
+
+{
+  "amount": 500000,
+  "duration": 18,
+  "percentage": 4
+}
